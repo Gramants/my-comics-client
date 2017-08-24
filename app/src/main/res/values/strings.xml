@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Marvel Client</string>
+  <string name="error_no_data">"No data returned. Pull to refresh."</string>
+  <string name="author">Coded by Stefano Gramantieri</string>
+</resources>
